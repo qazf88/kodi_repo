@@ -1,4 +1,4 @@
-<addon id="repository.qazf" name="qazf" version="0.0.2" provider-name="qazf">
+<addon id="repository.qazf" name="qazf" version="0.0.3" provider-name="qazf">
     <extension point="xbmc.addon.repository" name="qazf">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/qazf88/kodi_repo/main/addons/addons.xml</info>
